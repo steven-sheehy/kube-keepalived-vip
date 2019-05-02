@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  kube-keepalived-vip:
+  - apiVersion: v1
+    created: 2019-05-02T21:39:49.577748489Z
+    description: Highly available IP addresses and services via kube-keepalived-vip
+    digest: 0396293cd539fb5343cc65d29f5a9a3863a073f3927422f6edc11cc35dcdedaf
+    engine: gotpl
+    home: https://github.com/aledbf/kube-keepalived-vip
+    name: kube-keepalived-vip
+    urls:
+    - kube-keepalived-vip-0.2.0.tgz
+    version: 0.2.0
+generated: 2019-05-02T21:39:49.576924169Z
